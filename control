@@ -1,0 +1,9 @@
+Package: com.icraze.eightybrightness
+Name: 80Brightness
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Set Brightness To 80% After Respringing.
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
